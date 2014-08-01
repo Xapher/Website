@@ -11,3 +11,23 @@ and open the template in the editor.
 {
     background-color: aliceblue;
 }
+
+#Menu
+{ 
+    height: 50px;
+    font-size: 50px;
+}
+.left
+{
+    float: left;
+}
+html
+{
+    width: 100%;
+}
+#menuContent
+{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+}
