@@ -14,6 +14,10 @@ and open the template in the editor.
 
 #Menu
 { 
+    margin-left: auto;
+    margin-right: auto;
+    width: 1208px;
+    border: 1px solid red;
     height: 50px;
     font-size: 50px;
 }
@@ -27,6 +31,10 @@ html
 }
 #menuContent
 {
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid red;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
     font-size: 25px;
